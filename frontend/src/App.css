@@ -1,0 +1,54 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+  }
+  
+  .topbar {
+    background: #800000;
+    color: white;
+    padding: 10px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  nav a {
+    color: white;
+    margin: 0 10px;
+    text-decoration: none;
+  }
+  
+  .btn {
+    background: white;
+    color: #800000;
+    border: none;
+    padding: 8px 12px;
+    cursor: pointer;
+    font-weight: bold;
+  }
+  
+  .hero-image {
+    width: 100%;
+    height: auto;
+    display: block;
+  }
+  
+  .feature-box {
+    padding: 20px;
+    margin: 10px;
+    background: #f8f8f8;
+    border-radius: 8px;
+  }
+  
+  .gallery-grid {
+    display: flex;
+    gap: 10px;
+  }
+  
+  footer {
+    background: #111;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+  
